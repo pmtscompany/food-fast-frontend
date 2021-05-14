@@ -1,2 +1,2 @@
-# Front-end teste
+# Front-end
 Front-end do projeto Food-&-Fast
